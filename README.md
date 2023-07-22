@@ -1,2 +1,2 @@
 # OIBSIP
-Repo for all the Data Science Project done in Oasis Infobyte Internship
+Repo for all the Data Science Projects done in Oasis Infobyte Internship
